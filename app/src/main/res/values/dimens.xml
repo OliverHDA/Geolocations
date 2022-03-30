@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="textFieldHeight">60dp</dimen>
+    <dimen name="cardCornerRadius">15dp</dimen>
+    <dimen name="FABMargin">32dp</dimen>
+</resources>
